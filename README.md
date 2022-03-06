@@ -10,6 +10,16 @@ Use o [pip](https://pip.pypa.io/en/stable/) para instalar as dependências do pr
 pip install requirements.txt
 ```
 
+### Ambiente Virtual
+
+Recomendo a utilização de um ambiente virtual para instalar as dependências do projeto de forma local
+
+```bash
+python -m venv .venv
+cd .\.venv\Scripts\
+.\activate.ps1
+```
+
 ## Utilização
 
 ```bash
