@@ -2,15 +2,7 @@
 
 Este é um projeto de um gerenciador de senhas, feito utilizando o Python e suas bibliotecas Tkinter, random, json e pyperclip.
 
-## Instalação
-
-Use o [pip](https://pip.pypa.io/en/stable/) para instalar as dependências do projeto
-
-```bash
-pip install requirements.txt
-```
-
-### Ambiente Virtual
+## Ambiente Virtual
 
 Recomendo a utilização de um ambiente virtual para instalar as dependências do projeto de forma local
 
@@ -18,6 +10,14 @@ Recomendo a utilização de um ambiente virtual para instalar as dependências d
 python -m venv .venv
 cd .\.venv\Scripts\
 .\activate.ps1
+```
+
+## Instalação
+
+Use o [pip](https://pip.pypa.io/en/stable/) para instalar as dependências do projeto
+
+```bash
+pip install requirements.txt
 ```
 
 ## Utilização
